@@ -1,11 +1,24 @@
-<div align="center">
+# Harsh Bhadoria — Portfolio
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Personal portfolio for **Harsh Bhadoria** (Python Data Science, Generative AI & Full Stack MERN Developer from Gwalior, India).
 
-  <h1>Built with AI Studio</h2>
+## Features
+- **Interactive Liquid Glassmorphism UI** with adaptive Silk Aurora canvas & cursor particle trail
+- **Kinetic Louver Preloader** with GPU harmonic signal wave and liquid-filled typography reveal
+- **4–5 Column Filterable Skills Matrix** across AI/ML, Data Science, Python/DSA, Full Stack & DevOps
+- **Featured Projects** (AgriNext, Weather-fm, JeevanMarg) with architecture walkthrough modals
+- **Playable PySnake Arcade** built with Canvas + React
+- **LaTeX-Style Clean Resume** viewer, new-tab view, and direct PDF download
+- **Direct Contact Relay** with Zod-style input sanitization, honeypot & rate limiting via Express
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Local Development
+```bash
+npm install
+npm run dev
+```
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+## Production Build
+```bash
+npm run build
+npm start
+```
